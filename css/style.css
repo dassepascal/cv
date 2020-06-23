@@ -296,8 +296,22 @@ margin-left:40px ;
 }
 .formation-block h3{
     color: #00b5cc;
+    
+    
+
    
 }
+.formation-block a{
+    
+    text-decoration: none;
+} 
+.formation-block h3:hover{
+    color: #fff;
+    text-decoration: none;
+    list-style: none;
+   
+}
+
 .formation-block h4{
     margin-bottom: 20px;
 }
