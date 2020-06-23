@@ -112,7 +112,7 @@ ul,ol{
 .icon-bar{
     background-color: #fff !important;
 }
-#logo{
+#linkedin{
     text-align: center;
 }
     
@@ -367,16 +367,62 @@ margin-left:40px ;
 }
 
 /*PORTFOLIO WINSURF */
+#raid{
+    background: #00b5cc;
+}
+#raid .heading h2{
+    color: #fff;
+}
+#raid .heading p{
+    color: #fff;
+}
 #windsurf{
     background: #00b5cc;
 }
 #windsurf .heading h2{
    color: #fff;
 }
+
+#windsurf .heading p{
+    color: #fff;
+}
 #carouselButtons{
     margin-left:260px;
    /* position: absolute;*/
     bottom: 0px;
+}
+
+.construction-block figcaption{
+    padding: 10px 0;
+    font-weight: bold;
+    
+}
+.construction-block p {
+    
+    font-weight: bold;
+    text-align: left;
+}
+.construction-block{
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 30px  ;
+    background: #ddd;
+    border-radius: 10px;
+    border: 2px solid #ccc;
+    margin-bottom: 20px;
+}
+#construction{
+    background: #00b5cc;
+}
+#construction h2{
+    color: #fff;
+}
+.construction-block ul{
+    list-style: initial;
+    text-align: left;
+    font-weight: bold;
+
 }
 
 
