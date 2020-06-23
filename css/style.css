@@ -296,7 +296,7 @@ margin-left:40px ;
 }
 .formation-block h3{
     color: #00b5cc;
-    
+   
 }
 .formation-block h4{
     margin-bottom: 20px;
@@ -330,16 +330,46 @@ margin-left:40px ;
 }
 /* portforlio realisation */
 #realisation {
-    background: #00b5cc;
+    background: #fff;
 }
 #realisation .heading  h2{
-    color: #fff;
+    color: #00b5cc;
    
 }
-.container p{
-color:white;
-text-align: center;
+.realisation-block{
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 30px  ;
+    background: #ddd;
+    border-radius: 10px;
+    border: 2px solid #ccc;
+    margin-bottom: 20px;
 }
+.realisation-block h3{
+    color: #00b5cc;
+   
+}
+.realisation-block a{
+    text-decoration: none;
+}
+.realisation-block h3:hover{
+   
+    color: #fff;
+  
+}
+.realisation-block ul{
+    list-style: initial;
+    text-align: left;
+}
+.realisation-block h6{
+    text-align: left;
+}
+
+
+
+
+
 /*CERTIFICATS*/
 #certificats{
     background-color:#fff;
