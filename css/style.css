@@ -373,6 +373,11 @@ margin-left:40px ;
 #windsurf .heading h2{
    color: #fff;
 }
+#carouselButtons{
+    margin-left:260px;
+   /* position: absolute;*/
+    bottom: 0px;
+}
 
 
 
